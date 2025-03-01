@@ -82,7 +82,7 @@ margin-top: 17PX;
 }.image
 {
 display: flex;
-
+width: 100px;
 margin-bottom: 65px;
 margin-left: 50px;
 
