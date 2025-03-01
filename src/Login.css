@@ -20,12 +20,12 @@ background-image: linear-gradient(rgb(0, 0, 0),rgb(32, 32, 32),rgb(3, 3, 3))
 
 }
 .image{
-    
+    margin-bottom: 80px; 
 display: flex;
-
+height: 100px;
 width: 100px;
-
-
+align-items: center;
+justify-content: center;
 
 }
 .bt{
@@ -51,8 +51,7 @@ width: 100px;
         padding: 5px;
         color: rgb(255, 0, 0);
         height: 80px;
-        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
- 
+      
 
 }
 .links
@@ -82,8 +81,7 @@ margin-top: 17PX;
 }.image
 {
 display: flex;
-width: 180px;
-height: 190px;
+
 margin-bottom: 65px;
 margin-left: 50px;
 
