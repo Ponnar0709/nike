@@ -20,7 +20,7 @@ background-image: linear-gradient(rgb(0, 0, 0),rgb(32, 32, 32),rgb(3, 3, 3))
 
 }
 .image{
-    margin-bottom: 120px; 
+    margin-bottom: 125px; 
 display: flex;
 height: 100px;
 width: 100px;
@@ -166,7 +166,15 @@ align-items: center;
             transform: scale(1.1);
             box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;;}
         
-    /* body{
-        background-color: rgb(207, 207, 198);
-    } */
+    .image1{
+
+        margin-bottom: 125px; 
+        display: flex;
+        height: 100px;
+        width: 100px;
+        align-items: center;
+        justify-content: center;
+        margin-right: 20px;
+        
+    }
         

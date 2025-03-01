@@ -43,7 +43,7 @@ if(activeUserDetail.length>0){
   return (
     <div className="background">
       <div className="box">
-      < img className="image" src={Nike} alt="" />
+      < img className="image1" src={Nike} alt="" />
         <div>
         <p className="pt">UserName </p>
 
